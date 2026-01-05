@@ -2,7 +2,7 @@
 
 **Clonagem de Voz com Inteligência Artificial** - Clone qualquer voz com apenas 6-10 segundos de áudio!
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lucasgdevv/chatterbox-colab/blob/main/an8nymous_TTS.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/an8nymous0/an8nymous-chatterbox-colab/blob/main/an8nymous_TTS.ipynb)
 
 ---
 
@@ -91,7 +91,7 @@ O notebook usa seu **Google Drive** para cachear:
 
 - **Chatterbox TTS**: [Resemble AI](https://github.com/resemble-ai/chatterbox)
 - **Adaptação Multilingual**: [NeuralFalconYT](https://github.com/NeuralFalconYT/Chatterbox-Multilingual)
-- **Customização**: [an8nymous](https://github.com/lucasgdevv)
+- **Customização**: [an8nymous](https://github.com/an8nymous0)
 
 ---
 
